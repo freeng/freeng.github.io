@@ -10,4 +10,7 @@ tags:
     - Blog
 ---
 
-> Hello World;
+> Hello World.
+
+
+Freeng 的 Blog 就这么开通了。
