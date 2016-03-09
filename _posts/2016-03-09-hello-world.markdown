@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      "Hello 2015"
-subtitle:   " \"Hello World.\""
-date:       2016-03-09 15:23:00
-author:     "Freeng"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2015-01-29 12:00:00
+author:     "Hux"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 生活
@@ -14,7 +14,7 @@ tags:
 
 ## 前言
 
-Freeng 的 Blog 就这么开通了。
+Hux 的 Blog 就这么开通了。
 
 [跳过废话，直接看技术实现 ](#build) 
 
